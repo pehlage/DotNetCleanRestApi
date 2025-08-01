@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProductOrderAPI.Api",
+    "\\ProductOrderAPI.Api\\Controllers",
+    "\\ProductOrderAPI.Api\\Properties",
+    "\\ProductOrderAPI.Application",
+    "\\ProductOrderAPI.Application\\Interfaces",
+    "\\ProductOrderAPI.Infrastructure",
+    "\\ProductOrderAPI.Infrastructure\\Data",
+    "\\ProductOrderAPI.Infrastructure\\Repositories",
+    "\\ProductOrderAPI.Tests"
+  ],
+  "SelectedNode": "\\ProductOrderAPI.Api\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

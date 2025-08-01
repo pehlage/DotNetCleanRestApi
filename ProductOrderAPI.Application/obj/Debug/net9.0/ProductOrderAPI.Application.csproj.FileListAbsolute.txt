@@ -1,0 +1,15 @@
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\bin\Debug\net9.0\ProductOrderAPI.Application.deps.json
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\bin\Debug\net9.0\ProductOrderAPI.Application.dll
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\bin\Debug\net9.0\ProductOrderAPI.Application.pdb
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\bin\Debug\net9.0\ProductOrderAPI.Domain.dll
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\bin\Debug\net9.0\ProductOrderAPI.Domain.pdb
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net9.0\ProductOrderAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net9.0\ProductOrderAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net9.0\ProductOrderAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net9.0\ProductOrderAPI.Application.AssemblyInfo.cs
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net9.0\ProductOrderAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net9.0\ProductO.9C737287.Up2Date
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net9.0\ProductOrderAPI.Application.dll
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net9.0\refint\ProductOrderAPI.Application.dll
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net9.0\ProductOrderAPI.Application.pdb
+C:\Users\Pedro.Lageman\!EU\dev\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net9.0\ref\ProductOrderAPI.Application.dll

@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{917B5592-B18C-4057-AAE5-48C5E2B20D9D}|ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917B5592-B18C-4057-AAE5-48C5E2B20D9D}|ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj|solutionrelative:productorderapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10C169-1C95-498C-867C-5E71740AD2EC}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10C169-1C95-498C-867C-5E71740AD2EC}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4923C6-D688-4174-9A52-745B7B1460AA}|ProductOrderAPI.Tests\\ProductOrderAPI.Tests.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4923C6-D688-4174-9A52-745B7B1460AA}|ProductOrderAPI.Tests\\ProductOrderAPI.Tests.csproj|solutionrelative:productorderapi.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917B5592-B18C-4057-AAE5-48C5E2B20D9D}|ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{917B5592-B18C-4057-AAE5-48C5E2B20D9D}|ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj|solutionrelative:productorderapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917B5592-B18C-4057-AAE5-48C5E2B20D9D}|ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917B5592-B18C-4057-AAE5-48C5E2B20D9D}|ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj|solutionrelative:productorderapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917B5592-B18C-4057-AAE5-48C5E2B20D9D}|ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{917B5592-B18C-4057-AAE5-48C5E2B20D9D}|ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj|solutionrelative:productorderapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917B5592-B18C-4057-AAE5-48C5E2B20D9D}|ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.api\\productorderapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{917B5592-B18C-4057-AAE5-48C5E2B20D9D}|ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj|solutionrelative:productorderapi.api\\productorderapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10C169-1C95-498C-867C-5E71740AD2EC}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F10C169-1C95-498C-867C-5E71740AD2EC}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C67F4D1-806F-486D-9FF3-6FEF92E3B888}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C67F4D1-806F-486D-9FF3-6FEF92E3B888}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|solutionrelative:productorderapi.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6159B0B3-2676-47F4-9A14-A5E9AA12F1D7}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6159B0B3-2676-47F4-9A14-A5E9AA12F1D7}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|solutionrelative:productorderapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F10C169-1C95-498C-867C-5E71740AD2EC}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.infrastructure\\productorderapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F10C169-1C95-498C-867C-5E71740AD2EC}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\productorderapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6159B0B3-2676-47F4-9A14-A5E9AA12F1D7}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|c:\\users\\pedro.lageman\\!eu\\dev\\productorderapi\\productorderapi.domain\\productorderapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6159B0B3-2676-47F4-9A14-A5E9AA12F1D7}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|solutionrelative:productorderapi.domain\\productorderapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1765,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{53d10d51-d2d8-3452-ab88-12f687ed0782}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductOrderAPI.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T18:28:05.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductOrderAPI.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj",
+              "RelativeToolTip": "ProductOrderAPI.Api\\ProductOrderAPI.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T18:19:04.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Tests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Tests\\ProductTests.cs",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Tests\\ProductTests.cs",
+              "RelativeToolTip": "ProductOrderAPI.Tests\\ProductTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:18:17.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Api\\appsettings.json",
+              "RelativeToolTip": "ProductOrderAPI.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T18:18:04.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Api\\Program.cs",
+              "RelativeToolTip": "ProductOrderAPI.Api\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:17:49.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductOrderAPI.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:17:36.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:16:53.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:16:35.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ProductOrderAPI.Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:16:08.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductOrderAPI.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:15:44.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductOrderAPI.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T18:14:06.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductOrderAPI.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj",
+              "ToolTip": "C:\\Users\\Pedro.Lageman\\!EU\\dev\\ProductOrderAPI\\ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj",
+              "RelativeToolTip": "ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T18:13:20.323Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
